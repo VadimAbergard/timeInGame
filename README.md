@@ -13,3 +13,5 @@ steps:
 how does it work?
 
 when the timeInGame program is open, every 30 seconds write file spent time in game, hours.minutes.seconds
+
+in file "timeInGame.txt" you can select cooldown, example: "30(this's cooldown, 30)|0.0.0(this's time)"
